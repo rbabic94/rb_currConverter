@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="valuta_drzava">
+        <item>AUD - Australija</item>
+        <item>CAD - Kanada</item>
+        <item>CZK - Češka</item>
+        <item>GBP - Velika Britanija</item>
+        <item>HRK - Hrvatska</item>
+        <item>USD - SAD</item>
+        <item>EUR - EMU</item>
+        <item>PLN - Poljska</item>
+    </string-array>
+</resources>
